@@ -9,3 +9,4 @@ related是添加相邻药品信息的脚本
 data eve all是集合上面两个的，可以直接修改数据库文件
 drugv3是现在再用的数据库json
 ctmask 处理images，将mask部分取出，写上根目录和输出目录即可
+readtxt 读取yolo的结果txt，输出检测到的信息，还需要根据实际情况调整
