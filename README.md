@@ -8,3 +8,4 @@ parse_spatial 是添加位置属性的脚本
 related是添加相邻药品信息的脚本
 data eve all是集合上面两个的，可以直接修改数据库文件
 drugv3是现在再用的数据库json
+ctmask 处理images，将mask部分取出，写上根目录和输出目录即可
